@@ -2,5 +2,5 @@
 
 This is the first course in pathway "Become a python developer" in Linkedin Learning 
 
-1st Project: Fortune Cookie
+1st Project: Fortune Cookie <br />
 2nd Project: Lyrics_Analyzer
