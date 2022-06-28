@@ -2,6 +2,7 @@ import random
 import time
 print("Hi, welcome to number guessing game, I am going to pick a number between 1 to 100.")
 print("Picking a number...")
+# Add time delay of 2 second
 time.sleep(2)
 guess = int(input("What is your guess?: "))
 corr_num = random.randint(1,100)
